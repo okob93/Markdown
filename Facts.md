@@ -3,6 +3,8 @@
 *I like eating Pizza*
 
 My favorite basketball player is Lebron James.
+![Lebron James](image.jpg)
+
 
 Im a fan of the Chicago Whitesox
 
