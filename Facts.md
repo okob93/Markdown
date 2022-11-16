@@ -1,6 +1,6 @@
 **Interesting Facts about me**
 
-I like eating pizza.
+*I like eating Pizza*
 
 My favorite basketball player is Lebron James.
 
