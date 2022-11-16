@@ -1,3 +1,3 @@
 # Markdown
 
-#Some information that interests you and contains a variety of markdown features
+# Some information that interests you and contains a variety of markdown features
